@@ -135,4 +135,3 @@ function accessElementsInString() {
       alert('value is Invalid'); 
    }  
 }
- console.log(name);
